@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="app_name2">English Vocabulary</string>
+    <string name="tran_minh_thuan">Tran Minh Thuan</string>
+</resources>
